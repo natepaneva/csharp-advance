@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{52DFE90C-2F5B-48F6-94A9-4D14829E2FBB}|Default">
+﻿<Properties StartupConfiguration="{4AA9FF2B-9CBA-467A-8251-7688FA483A0A}|Default">
   <MonoDevelop.Ide.ItemProperties.VezbiPovtoruvanje PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="21" Column="38" />
+      <File FileName="Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Vezbi" expanded="True">
+          <Node name="VezbiPovtoruvanje" expanded="True">
             <Node name="VezbiPovtoruvanje" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
