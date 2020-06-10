@@ -1,0 +1,17 @@
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/bin/Debug/netcoreapp2.1/QuizApp.Start.deps.json
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/bin/Debug/netcoreapp2.1/QuizApp.Start.runtimeconfig.json
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/bin/Debug/netcoreapp2.1/QuizApp.Start.runtimeconfig.dev.json
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/bin/Debug/netcoreapp2.1/QuizApp.Start.dll
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/bin/Debug/netcoreapp2.1/QuizApp.Start.pdb
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/bin/Debug/netcoreapp2.1/QuizApp.Domain.dll
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/bin/Debug/netcoreapp2.1/QuizApp.Services.dll
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/bin/Debug/netcoreapp2.1/QuizApp.Domain.pdb
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/bin/Debug/netcoreapp2.1/QuizApp.Services.pdb
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/obj/Debug/netcoreapp2.1/QuizApp.Start.csprojAssemblyReference.cache
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/obj/Debug/netcoreapp2.1/QuizApp.Start.AssemblyInfoInputs.cache
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/obj/Debug/netcoreapp2.1/QuizApp.Start.AssemblyInfo.cs
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/obj/Debug/netcoreapp2.1/QuizApp.Start.csproj.CoreCompileInputs.cache
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/obj/Debug/netcoreapp2.1/QuizApp.Start.csproj.CopyComplete
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/obj/Debug/netcoreapp2.1/QuizApp.Start.dll
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/obj/Debug/netcoreapp2.1/QuizApp.Start.pdb
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Start/obj/Debug/netcoreapp2.1/QuizApp.Start.genruntimeconfig.cache

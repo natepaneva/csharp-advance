@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B11576ED-F931-4EB8-9887-2A887044710D}|Default">
+  <MonoDevelop.Ide.ItemProperties.QuizApp.Start PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QuizApp.Start/Program.cs">
+    <Files>
+      <File FileName="QuizApp.Services/UserService.cs" Line="5" Column="2" />
+      <File FileName="QuizApp.Domain/User/Role.cs" />
+      <File FileName="QuizApp.Domain/User/User.cs" />
+      <File FileName="QuizApp.Start/Program.cs" Line="14" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QuizApp" expanded="True">
+            <Node name="QuizApp.Domain" expanded="True">
+              <Node name="User" expanded="True" />
+            </Node>
+            <Node name="QuizApp.Services" expanded="True" />
+            <Node name="QuizApp.Start" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

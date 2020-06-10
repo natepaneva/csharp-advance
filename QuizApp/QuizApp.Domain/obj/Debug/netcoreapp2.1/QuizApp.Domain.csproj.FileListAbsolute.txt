@@ -1,0 +1,8 @@
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Domain/bin/Debug/netcoreapp2.1/QuizApp.Domain.deps.json
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Domain/bin/Debug/netcoreapp2.1/QuizApp.Domain.dll
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Domain/bin/Debug/netcoreapp2.1/QuizApp.Domain.pdb
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Domain/obj/Debug/netcoreapp2.1/QuizApp.Domain.AssemblyInfoInputs.cache
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Domain/obj/Debug/netcoreapp2.1/QuizApp.Domain.AssemblyInfo.cs
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Domain/obj/Debug/netcoreapp2.1/QuizApp.Domain.csproj.CoreCompileInputs.cache
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Domain/obj/Debug/netcoreapp2.1/QuizApp.Domain.dll
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Domain/obj/Debug/netcoreapp2.1/QuizApp.Domain.pdb

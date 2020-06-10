@@ -1,0 +1,12 @@
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Services/bin/Debug/netcoreapp2.1/QuizApp.Services.deps.json
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Services/bin/Debug/netcoreapp2.1/QuizApp.Services.dll
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Services/bin/Debug/netcoreapp2.1/QuizApp.Services.pdb
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Services/bin/Debug/netcoreapp2.1/QuizApp.Domain.dll
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Services/bin/Debug/netcoreapp2.1/QuizApp.Domain.pdb
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Services/obj/Debug/netcoreapp2.1/QuizApp.Services.csprojAssemblyReference.cache
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Services/obj/Debug/netcoreapp2.1/QuizApp.Services.AssemblyInfoInputs.cache
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Services/obj/Debug/netcoreapp2.1/QuizApp.Services.AssemblyInfo.cs
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Services/obj/Debug/netcoreapp2.1/QuizApp.Services.csproj.CoreCompileInputs.cache
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Services/obj/Debug/netcoreapp2.1/QuizApp.Services.csproj.CopyComplete
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Services/obj/Debug/netcoreapp2.1/QuizApp.Services.dll
+/Users/natepaneva/Desktop/C#Advance/Classes/QuizApp/QuizApp.Services/obj/Debug/netcoreapp2.1/QuizApp.Services.pdb
