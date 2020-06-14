@@ -1,0 +1,12 @@
+/Users/natepaneva/Desktop/C#Advance/Homeworks/3.AbstractInterfaces/AbstractInterfaces/bin/Debug/netcoreapp3.1/AbstractInterfaces.deps.json
+/Users/natepaneva/Desktop/C#Advance/Homeworks/3.AbstractInterfaces/AbstractInterfaces/bin/Debug/netcoreapp3.1/AbstractInterfaces.runtimeconfig.json
+/Users/natepaneva/Desktop/C#Advance/Homeworks/3.AbstractInterfaces/AbstractInterfaces/bin/Debug/netcoreapp3.1/AbstractInterfaces.runtimeconfig.dev.json
+/Users/natepaneva/Desktop/C#Advance/Homeworks/3.AbstractInterfaces/AbstractInterfaces/bin/Debug/netcoreapp3.1/AbstractInterfaces.dll
+/Users/natepaneva/Desktop/C#Advance/Homeworks/3.AbstractInterfaces/AbstractInterfaces/bin/Debug/netcoreapp3.1/AbstractInterfaces.pdb
+/Users/natepaneva/Desktop/C#Advance/Homeworks/3.AbstractInterfaces/AbstractInterfaces/obj/Debug/netcoreapp3.1/AbstractInterfaces.csprojAssemblyReference.cache
+/Users/natepaneva/Desktop/C#Advance/Homeworks/3.AbstractInterfaces/AbstractInterfaces/obj/Debug/netcoreapp3.1/AbstractInterfaces.AssemblyInfoInputs.cache
+/Users/natepaneva/Desktop/C#Advance/Homeworks/3.AbstractInterfaces/AbstractInterfaces/obj/Debug/netcoreapp3.1/AbstractInterfaces.AssemblyInfo.cs
+/Users/natepaneva/Desktop/C#Advance/Homeworks/3.AbstractInterfaces/AbstractInterfaces/obj/Debug/netcoreapp3.1/AbstractInterfaces.csproj.CoreCompileInputs.cache
+/Users/natepaneva/Desktop/C#Advance/Homeworks/3.AbstractInterfaces/AbstractInterfaces/obj/Debug/netcoreapp3.1/AbstractInterfaces.dll
+/Users/natepaneva/Desktop/C#Advance/Homeworks/3.AbstractInterfaces/AbstractInterfaces/obj/Debug/netcoreapp3.1/AbstractInterfaces.pdb
+/Users/natepaneva/Desktop/C#Advance/Homeworks/3.AbstractInterfaces/AbstractInterfaces/obj/Debug/netcoreapp3.1/AbstractInterfaces.genruntimeconfig.cache

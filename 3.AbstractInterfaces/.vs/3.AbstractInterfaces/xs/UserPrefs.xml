@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{DFF1C803-112C-4A3C-9FE9-49F1B654926B}|Default">
+  <MonoDevelop.Ide.ItemProperties.AbstractInterfaces FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractInterfaces/Models/Teacher.cs">
+    <Files>
+      <File FileName="AbstractInterfaces/Program.cs" Line="1" Column="1" />
+      <File FileName="AbstractInterfaces/Models/Interfaces/IUser.cs" Line="12" Column="1" />
+      <File FileName="AbstractInterfaces/Models/Interfaces/ITeacher.cs" Line="13" Column="1" />
+      <File FileName="AbstractInterfaces/Models/Interfaces/IStudent.cs" Line="10" Column="45" />
+      <File FileName="AbstractInterfaces/Models/User.cs" Line="1" Column="1" />
+      <File FileName="AbstractInterfaces/Models/Student.cs" Line="1" Column="1" />
+      <File FileName="AbstractInterfaces/Models/Teacher.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3.AbstractInterfaces" expanded="True">
+            <Node name="AbstractInterfaces" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="User.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
