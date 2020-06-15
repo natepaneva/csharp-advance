@@ -1,0 +1,12 @@
+/Users/natepaneva/Desktop/C#Advance/Homeworks/StaticClassesPolymorohism/obj/Debug/netcoreapp3.1/StaticClassesPolymorohism.csprojAssemblyReference.cache
+/Users/natepaneva/Desktop/C#Advance/Homeworks/StaticClassesPolymorohism/obj/Debug/netcoreapp3.1/StaticClassesPolymorohism.AssemblyInfoInputs.cache
+/Users/natepaneva/Desktop/C#Advance/Homeworks/StaticClassesPolymorohism/obj/Debug/netcoreapp3.1/StaticClassesPolymorohism.AssemblyInfo.cs
+/Users/natepaneva/Desktop/C#Advance/Homeworks/StaticClassesPolymorohism/obj/Debug/netcoreapp3.1/StaticClassesPolymorohism.csproj.CoreCompileInputs.cache
+/Users/natepaneva/Desktop/C#Advance/Homeworks/StaticClassesPolymorohism/bin/Debug/netcoreapp3.1/StaticClassesPolymorohism.deps.json
+/Users/natepaneva/Desktop/C#Advance/Homeworks/StaticClassesPolymorohism/bin/Debug/netcoreapp3.1/StaticClassesPolymorohism.runtimeconfig.json
+/Users/natepaneva/Desktop/C#Advance/Homeworks/StaticClassesPolymorohism/bin/Debug/netcoreapp3.1/StaticClassesPolymorohism.runtimeconfig.dev.json
+/Users/natepaneva/Desktop/C#Advance/Homeworks/StaticClassesPolymorohism/bin/Debug/netcoreapp3.1/StaticClassesPolymorohism.dll
+/Users/natepaneva/Desktop/C#Advance/Homeworks/StaticClassesPolymorohism/bin/Debug/netcoreapp3.1/StaticClassesPolymorohism.pdb
+/Users/natepaneva/Desktop/C#Advance/Homeworks/StaticClassesPolymorohism/obj/Debug/netcoreapp3.1/StaticClassesPolymorohism.dll
+/Users/natepaneva/Desktop/C#Advance/Homeworks/StaticClassesPolymorohism/obj/Debug/netcoreapp3.1/StaticClassesPolymorohism.pdb
+/Users/natepaneva/Desktop/C#Advance/Homeworks/StaticClassesPolymorohism/obj/Debug/netcoreapp3.1/StaticClassesPolymorohism.genruntimeconfig.cache

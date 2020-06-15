@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E50232B5-2D74-47F8-956F-CBA705787AB6}|Default">
+  <MonoDevelop.Ide.ItemProperties.StaticClassesPolymorohism PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="35" />
+      <File FileName="Models/Dog.cs" Line="23" Column="1" />
+      <File FileName="DB/DogShelter.cs" Line="54" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="4.StaticClassesPolymorohism" expanded="True">
+            <Node name="StaticClassesPolymorohism" expanded="True">
+              <Node name="DB" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
