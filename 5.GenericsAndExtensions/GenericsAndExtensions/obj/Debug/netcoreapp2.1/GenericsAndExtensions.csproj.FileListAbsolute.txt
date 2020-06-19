@@ -1,0 +1,11 @@
+/Users/natepaneva/Desktop/C#Advance/Homeworks/5.GenericsAndExtensions/GenericsAndExtensions/bin/Debug/netcoreapp2.1/GenericsAndExtensions.deps.json
+/Users/natepaneva/Desktop/C#Advance/Homeworks/5.GenericsAndExtensions/GenericsAndExtensions/bin/Debug/netcoreapp2.1/GenericsAndExtensions.runtimeconfig.json
+/Users/natepaneva/Desktop/C#Advance/Homeworks/5.GenericsAndExtensions/GenericsAndExtensions/bin/Debug/netcoreapp2.1/GenericsAndExtensions.runtimeconfig.dev.json
+/Users/natepaneva/Desktop/C#Advance/Homeworks/5.GenericsAndExtensions/GenericsAndExtensions/bin/Debug/netcoreapp2.1/GenericsAndExtensions.dll
+/Users/natepaneva/Desktop/C#Advance/Homeworks/5.GenericsAndExtensions/GenericsAndExtensions/bin/Debug/netcoreapp2.1/GenericsAndExtensions.pdb
+/Users/natepaneva/Desktop/C#Advance/Homeworks/5.GenericsAndExtensions/GenericsAndExtensions/obj/Debug/netcoreapp2.1/GenericsAndExtensions.AssemblyInfoInputs.cache
+/Users/natepaneva/Desktop/C#Advance/Homeworks/5.GenericsAndExtensions/GenericsAndExtensions/obj/Debug/netcoreapp2.1/GenericsAndExtensions.AssemblyInfo.cs
+/Users/natepaneva/Desktop/C#Advance/Homeworks/5.GenericsAndExtensions/GenericsAndExtensions/obj/Debug/netcoreapp2.1/GenericsAndExtensions.csproj.CoreCompileInputs.cache
+/Users/natepaneva/Desktop/C#Advance/Homeworks/5.GenericsAndExtensions/GenericsAndExtensions/obj/Debug/netcoreapp2.1/GenericsAndExtensions.dll
+/Users/natepaneva/Desktop/C#Advance/Homeworks/5.GenericsAndExtensions/GenericsAndExtensions/obj/Debug/netcoreapp2.1/GenericsAndExtensions.pdb
+/Users/natepaneva/Desktop/C#Advance/Homeworks/5.GenericsAndExtensions/GenericsAndExtensions/obj/Debug/netcoreapp2.1/GenericsAndExtensions.genruntimeconfig.cache

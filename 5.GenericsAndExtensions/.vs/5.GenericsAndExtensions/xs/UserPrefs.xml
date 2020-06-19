@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{ECA7F305-998A-4D0A-A5F0-65E5A9A40FE5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenericsAndExtensions/Program.cs">
+    <Files>
+      <File FileName="GenericsAndExtensions/Program.cs" Line="17" Column="1" />
+      <File FileName="GenericsAndExtensions/Models/Pet.cs" Line="12" Column="1" />
+      <File FileName="GenericsAndExtensions/Models/Dog.cs" Line="15" Column="1" />
+      <File FileName="GenericsAndExtensions/Models/Cat.cs" Line="7" Column="43" />
+      <File FileName="GenericsAndExtensions/Models/Fish.cs" Line="7" Column="41" />
+      <File FileName="GenericsAndExtensions/Models/PetStoreGenericDb.cs" Line="42" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="5.GenericsAndExtensions" expanded="True">
+            <Node name="GenericsAndExtensions" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GenericsAndExtensions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
