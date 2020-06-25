@@ -1,0 +1,12 @@
+/Users/natepaneva/Desktop/C#Advance/Homeworks/7.AnonymousFuncLinq/AnonymousFuncLinq/bin/Debug/netcoreapp3.1/AnonymousFuncLinq.deps.json
+/Users/natepaneva/Desktop/C#Advance/Homeworks/7.AnonymousFuncLinq/AnonymousFuncLinq/bin/Debug/netcoreapp3.1/AnonymousFuncLinq.runtimeconfig.json
+/Users/natepaneva/Desktop/C#Advance/Homeworks/7.AnonymousFuncLinq/AnonymousFuncLinq/bin/Debug/netcoreapp3.1/AnonymousFuncLinq.runtimeconfig.dev.json
+/Users/natepaneva/Desktop/C#Advance/Homeworks/7.AnonymousFuncLinq/AnonymousFuncLinq/bin/Debug/netcoreapp3.1/AnonymousFuncLinq.dll
+/Users/natepaneva/Desktop/C#Advance/Homeworks/7.AnonymousFuncLinq/AnonymousFuncLinq/bin/Debug/netcoreapp3.1/AnonymousFuncLinq.pdb
+/Users/natepaneva/Desktop/C#Advance/Homeworks/7.AnonymousFuncLinq/AnonymousFuncLinq/obj/Debug/netcoreapp3.1/AnonymousFuncLinq.csprojAssemblyReference.cache
+/Users/natepaneva/Desktop/C#Advance/Homeworks/7.AnonymousFuncLinq/AnonymousFuncLinq/obj/Debug/netcoreapp3.1/AnonymousFuncLinq.AssemblyInfoInputs.cache
+/Users/natepaneva/Desktop/C#Advance/Homeworks/7.AnonymousFuncLinq/AnonymousFuncLinq/obj/Debug/netcoreapp3.1/AnonymousFuncLinq.AssemblyInfo.cs
+/Users/natepaneva/Desktop/C#Advance/Homeworks/7.AnonymousFuncLinq/AnonymousFuncLinq/obj/Debug/netcoreapp3.1/AnonymousFuncLinq.csproj.CoreCompileInputs.cache
+/Users/natepaneva/Desktop/C#Advance/Homeworks/7.AnonymousFuncLinq/AnonymousFuncLinq/obj/Debug/netcoreapp3.1/AnonymousFuncLinq.dll
+/Users/natepaneva/Desktop/C#Advance/Homeworks/7.AnonymousFuncLinq/AnonymousFuncLinq/obj/Debug/netcoreapp3.1/AnonymousFuncLinq.pdb
+/Users/natepaneva/Desktop/C#Advance/Homeworks/7.AnonymousFuncLinq/AnonymousFuncLinq/obj/Debug/netcoreapp3.1/AnonymousFuncLinq.genruntimeconfig.cache

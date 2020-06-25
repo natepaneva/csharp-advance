@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{CCB708DE-B607-4282-A953-A3BA92C2A799}|Default">
+  <MonoDevelop.Ide.ItemProperties.AnonymousFuncLinq PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnonymousFuncLinq/AnonymousFuncLinq.csproj">
+    <Files>
+      <File FileName="AnonymousFuncLinq/Program.cs" Line="93" Column="1" />
+      <File FileName="AnonymousFuncLinq/DB.cs" Line="47" Column="53" />
+      <File FileName="AnonymousFuncLinq/Helpers/ListHelper.cs" Line="25" Column="41" />
+      <File FileName="AnonymousFuncLinq/Dog.cs" Line="22" Column="1" />
+      <File FileName="AnonymousFuncLinq/Enums/Breed.cs" Line="6" Column="9" />
+      <File FileName="AnonymousFuncLinq/Enums/Job.cs" Line="9" Column="13" />
+      <File FileName="AnonymousFuncLinq/AnonymousFuncLinq.csproj" Line="8" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="7.AnonymousFuncLinq" expanded="True">
+            <Node name="AnonymousFuncLinq" expanded="True">
+              <Node name="Enums" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
